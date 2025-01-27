@@ -1,0 +1,5 @@
+1) Só usamos o django-admin startproject ., a partir do momento que temos a estrutura do projeto criado, vamos sempre pelo manage.py
+2) Comandos do prompt para sempre exexutar direto os comandos pelo terminal:
+
+        - cd C:\Users\ot\Documents\Estudo_python\djangootaviomiranda\projeto1 ( Para levar o terminal para o respectivo path)
+        - Após espqecificado corretamente o diretorio apenas digitar no prompt venv\Scripts\activate
