@@ -3,7 +3,7 @@
 
         - cd C:\Users\ot\Documents\Estudo_python\djangootaviomiranda\projeto1 ( Para levar o terminal para o respectivo path)
         - Após espqecificado corretamente o diretorio apenas digitar no prompt venv\Scripts\activate
-
+3) Comando prompt to star an app, python manage.py startapp "name of app"
 
 ShortCuts:
 
