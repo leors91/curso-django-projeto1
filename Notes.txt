@@ -3,3 +3,13 @@
 
         - cd C:\Users\ot\Documents\Estudo_python\djangootaviomiranda\projeto1 ( Para levar o terminal para o respectivo path)
         - Após espqecificado corretamente o diretorio apenas digitar no prompt venv\Scripts\activate
+
+
+ShortCuts:
+
+        - WEB: 'F12' - Para  abrir a tela de inspeção 
+        - WEB: 'Ctrl + R' - Para  revarregar a requisição dentro da tela de inspeção
+
+Obervações:
+
+        - Estudar StatusOde do HTTP - Na verdade de uma maneira geral estudar o protocolo HTTP
