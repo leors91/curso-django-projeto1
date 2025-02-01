@@ -20,8 +20,3 @@ from django.http import HttpResponse
 def home(request):
     return render(request, 'recipes/home.html', context={'name':'Leomnardo Santos'})
 
-def contato(request):
-    return HttpResponse('contato 40')
-
-def sobre(request):
-    return HttpResponse('sobre 30')
