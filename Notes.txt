@@ -13,3 +13,20 @@ ShortCuts:
 Obervações:
 
         - Estudar StatusOde do HTTP - Na verdade de uma maneira geral estudar o protocolo HTTP
+
+
+
+
+Resumo 01.01.2025:
+
+Aula 24 -> Entendendo a função render por dentro.
+
+1) Criamos a pasta projeto
+2) Confirguramos o dbugger para rodarmos oservidor e atuqalições debugando. Daí é criada a pasta .vscode
+3) Criamos a pasta recipes que é o app, o app tem que ser adicionado no settingd em installed apps
+4) O coreeto na pasta url dela colocar o path das orl's 
+5) Constuindo as views no views.py
+6) Utilizando os arquivos html dentro da pasta de templates. E as pasts com os templates tem que ser adicionadas dentro de setting em dist templates.
+
+Estamos no módulo de django url's, vies e tmeplates. Primeiro grande passo é crair padrão de projeto do Django, que é basicamente a aba projeto. 
+Nele que vamos trabalhar pricipalmente nas urls, incialmente dentro da pasta do prórpio projeto e depois dentro pasra do app, que no caso é a recipes. 
